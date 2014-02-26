@@ -1,5 +1,13 @@
-.tasks {
+#show-lists, .show-tasks {
   display: none;
 }
 
+#list-of-lists {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#list-of-lists:hover {
+  text-decoration: underline;
+}
 
